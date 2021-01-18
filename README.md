@@ -15,10 +15,11 @@ Alexa will ask randomly selected question from question-database and store stude
 * server less architecture
 
 
---Controller
---VO
---DAO
--lambdafuncation.py
+--[controller](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/controller)  
+--[vo](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/vo)  
+--[dao](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/dao)  
+-[lambda_funcation.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/lambda_function.py)  
+
 
 
 
