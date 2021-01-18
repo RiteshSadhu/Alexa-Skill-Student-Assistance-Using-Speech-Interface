@@ -16,8 +16,27 @@ Alexa will ask randomly selected question from question-database and store stude
 
 
 --[controller](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/controller)  
---[vo](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/vo)  
+ |--[QuestionController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/QuestionController.py)  
+ |--[StudentController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/StudentController.py)  
+ |--[TestController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/TestController.py)  
+ |--[TopicController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/TopicController.py) 
+ |--[__init__.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/__init__.py)   
+
 --[dao](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/dao)  
+ |--[QueestionDAO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/dao/QueestionDAO.py)  
+ |--[StudentDAO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/dao/StudentDAO.py)  
+ |--[TestDAO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/dao/TestDAO.py)   
+ |--[TopicDAO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/dao/TopicDAO.py)  
+ |--[__init__.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/dao/__init__.py)  
+
+--[vo](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/vo)  
+ |--[QuestionTypeVO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/vo/QuestionTypeVO.py)  
+ |--[QuestionVO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/vo/QuestionVO.py)  
+ |--[StudentVO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/vo/StudentVO.py)  
+ |--[TestVO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/vo/TestVO.py)  
+ |--[TopicVO.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/vo/TopicVo.py)  
+ |--[__init__.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/vo/__init__.py)  
+
 -[lambda_funcation.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/lambda_function.py)  
 
 
