@@ -3,6 +3,8 @@ This Alexa skill is written in Python 3 and It will use the Database of my Final
  
 ## Descrition:
 This skill is designed for student's voice based test. Alexa will ask 6 question in per test.
+check out Demonstration on Youtube.  
+![alexa skill demonstration on youtube](https://img.icons8.com/fluent/48/000000/youtube-play.png "youtube icon")  https://youtu.be/Yfpk2g4LmjY
 
 ### Alexa skill test flow
 Registered Student can start their varble test by verify with OTP.
@@ -11,7 +13,7 @@ Alexa will ask randomly selected question from question-database and store stude
 
 ### Project and Source Description:
 * Project Use MVC design design pattern.
-* ORM query for database oprations
+* ORM SQL query for database oprations
 * server less architecture
 
 
@@ -19,7 +21,7 @@ Alexa will ask randomly selected question from question-database and store stude
  |--[QuestionController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/QuestionController.py)  
  |--[StudentController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/StudentController.py)  
  |--[TestController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/TestController.py)  
- |--[TopicController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/TopicController.py) 
+ |--[TopicController.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/TopicController.py)  
  |--[__init__.py](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/blob/main/controller/__init__.py)   
 
 --[dao](https://github.com/RiteshSadhu/Alexa-Skill-Student-Assistance-Using-Speech-Interface/tree/main/dao)  
