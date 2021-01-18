@@ -6,6 +6,9 @@ This skill is designed for student's voice based test. Alexa will ask 6 question
 check out Demonstration on Youtube.  
 ![alexa skill demonstration on youtube](https://img.icons8.com/fluent/48/000000/youtube-play.png "youtube icon")  https://youtu.be/Yfpk2g4LmjY
 
+[presentations](https://www.canva.com/design/DAD_KTRP7Fw/szyRMaKyA7lbDRu_SEJGOg/view?utm_content=DAD_KTRP7Fw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#21) 
+
+
 ### Alexa skill test flow
 Registered Student can start their varble test by verify with OTP.
 First 3 questions answers should be One or two words and next 3 questions answer will True or False.
